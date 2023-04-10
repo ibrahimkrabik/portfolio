@@ -1,0 +1,26 @@
+.navbar {
+  background-color: rgba(70, 32, 4, 0.5);
+}
+.nav-link {
+  color: #fff !important;
+  font-size: 20px !important;
+  margin-left: 15px;
+  transition: 0.4s ease-in-out !important;
+}
+
+.nav-link.active {
+  color: #d54807 !important;
+  border-bottom: 1px solid #d54807 !important;
+}
+.nav-link:hover {
+  color: #d54807 !important;
+}
+
+.navbar-toggler {
+  border: 1px solid #d54807 !important;
+  background-color: #fff !important;
+}
+
+a h2 {
+  color: #d54807;
+}

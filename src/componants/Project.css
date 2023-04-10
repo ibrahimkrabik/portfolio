@@ -1,0 +1,44 @@
+.projects {
+  padding-top: 30px;
+  padding-left: auto;
+  text-align: center;
+}
+.projects h1 {
+  color: #fff;
+  padding-bottom: 30px;
+}
+
+.projects img {
+  border-radius: 10px;
+}
+.projects a {
+  overflow: hidden;
+}
+.projects a {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.projects a::before {
+  content: "Go to website";
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: #d54807;
+  opacity: 0;
+  border-radius: 10px;
+  transition: 0.3s ease-in-out;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #fff;
+  font-weight: bold;
+  font-size: 25px;
+}
+
+.projects a:hover::before {
+  opacity: 0.6;
+}
