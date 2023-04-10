@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.a58b75d4.css",
+    "main.js": "/portfolio/static/js/main.1e5428a5.js",
+    "static/media/background (3).jpg": "/portfolio/static/media/background (3).86ed033defdf8870be67.jpg",
+    "static/media/‏‏لقطة الشاشة (20).png": "/portfolio/static/media/‏‏لقطة الشاشة (20).a09c79301aa7332b7858.png",
+    "static/media/‏‏لقطة الشاشة (18).png": "/portfolio/static/media/‏‏لقطة الشاشة (18).619ecf7e9cb3d686e242.png",
+    "static/media/‏‏لقطة الشاشة (21).png": "/portfolio/static/media/‏‏لقطة الشاشة (21).d49b8120388db2450f46.png",
+    "static/media/wood-2065366_1920.jpg": "/portfolio/static/media/wood-2065366_1920.5443a9917fefd6c0ab5a.jpg",
+    "static/media/‏‏لقطة الشاشة (13).png": "/portfolio/static/media/‏‏لقطة الشاشة (13).e3dc8f01799dd121aed0.png",
+    "static/media/‏‏لقطة الشاشة (15).png": "/portfolio/static/media/‏‏لقطة الشاشة (15).f96cb35680e0d2d8c291.png",
+    "static/media/‏‏لقطة الشاشة (19).png": "/portfolio/static/media/‏‏لقطة الشاشة (19).39e0617c1b2533a0c9a3.png",
+    "index.html": "/portfolio/index.html",
+    "main.a58b75d4.css.map": "/portfolio/static/css/main.a58b75d4.css.map",
+    "main.1e5428a5.js.map": "/portfolio/static/js/main.1e5428a5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a58b75d4.css",
+    "static/js/main.1e5428a5.js"
+  ]
+}
